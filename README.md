@@ -7,28 +7,31 @@
 
 ---
 
-<table>
+<table width="100%">
 <tr>
-<td width="60%">
+<td width="55%" valign="top">
 
-## 🧑‍💻 Languages
+### 🧑‍💻 Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=php,cs,js,ts,html,css" />
 </p>
 
-- PHP  
-- C# (.NET / ASP.NET Core)  
-- JavaScript / TypeScript  
-- HTML & CSS  
+- **PHP**  
+- **C# (.NET / ASP.NET Core)**  
+- **JavaScript / TypeScript**  
+- **HTML & CSS**
 
 </td>
-<td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260" />
+<td width="45%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
 
 </td>
 </tr>
 </table>
+
 
 
 ---
