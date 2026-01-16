@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ashutosh Choudhary</h1>
+<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
 
-<!--
-**Ashutoshchoudhary22/Ashutoshchoudhary22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 💻 Full Stack Developer  
+- ⚙️ Tech: PHP | .NET | MERN  
+- 🧠 Learning & building real-world projects  
+- 📍 India  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Language & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,php,cs,nodejs,express,mongodb,mysql,react,html,css,git" />
+</p>
+
+---
+
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,html,css" />
+</p>
+
+---
+
+### 📫 Connect with me
+- 💼 LinkedIn: https://www.linkedin.com/in/ashutosh-choudhary-693b1a264  
+- 🧑‍💻 GitHub: https://github.com/Ashutoshchoudhary22
