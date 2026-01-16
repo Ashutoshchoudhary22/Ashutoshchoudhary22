@@ -7,12 +7,25 @@
 
 ---
 
+<table>
+<tr>
+<td width="60%">
+
 ## 🚀 About Me
 - 💻 Full Stack Developer with hands-on project experience  
-- 🧠 Strong in **Backend + Frontend integration**  
-- 🛠️ Tech Stack: **PHP | ASP.NET Core | MERN**  
-- 📦 Built **LMS, Chat Applications, Admin Panels**  
+- 🧠 Strong in Backend + Frontend integration  
+- 🛠️ Tech Stack: PHP | ASP.NET Core | MERN  
+- 📦 Built LMS, Chat Applications, Admin Panels  
 - 🎯 Goal: Write clean, scalable & production-ready code  
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+
+</td>
+</tr>
+</table>
 
 ---
 
