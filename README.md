@@ -38,16 +38,16 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashutoshchoudhary22&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutoshchoudhary22&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashutoshchoudhary22&show_icons=true&theme=dark" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Ashutoshchoudhary22&theme=dark" height="160"/>
 </p>
 
----
-
 ## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashutoshchoudhary22&theme=dracula&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashutoshchoudhary22&theme=darkhub&no-frame=true&row=1" />
 </p>
 
 ---
