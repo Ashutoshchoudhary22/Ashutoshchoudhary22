@@ -11,21 +11,25 @@
 <tr>
 <td width="60%">
 
-## 🚀 About Me
-- 💻 Full Stack Developer with hands-on project experience  
-- 🧠 Strong in Backend + Frontend integration  
-- 🛠️ Tech Stack: PHP | ASP.NET Core | MERN  
-- 📦 Built LMS, Chat Applications, Admin Panels  
-- 🎯 Goal: Write clean, scalable & production-ready code  
+## 🧑‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=php,cs,js,ts,html,css" />
+</p>
+
+- PHP  
+- C# (.NET / ASP.NET Core)  
+- JavaScript / TypeScript  
+- HTML & CSS  
 
 </td>
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260" />
 
 </td>
 </tr>
 </table>
+
 
 ---
 
